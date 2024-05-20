@@ -1,0 +1,6 @@
+people = "people/{idNumber}/"
+planets = "planets/{idNumber}/"
+starships = "starships/{idNumber}/"
+filmById = "films/{idNumber}/"
+film = "films/"
+vehicles = "vehicles/{idNumber}/"
