@@ -48,5 +48,5 @@ pip3 install -r requirements.txt
 which will install all of the needed requirements in the newly created isolated python environment.
 ### Run
 ```bash
-robot -d results worker.robot
+robot -d results tests.robot
 ```
